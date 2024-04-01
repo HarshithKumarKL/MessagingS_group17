@@ -1,7 +1,7 @@
 **MessagingS_group17**
 *Messaging Application README*
 
-**Overview**
+Overview:
 Using TCP/IP sockets, the Python application The Messaging Application emulates a messaging server. It enables several nodes, or clients, to connect to a server and exchange messages with one another via the server. By sending messages between nodes, the server enables inter-node communication.
 
 Features:
